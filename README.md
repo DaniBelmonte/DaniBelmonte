@@ -1,15 +1,15 @@
 <h1> Hi, I´m Daniel Belmonte Valero <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h1>
 <h2>About Me:</h2>
-<p>Hi, I´m 20, my passion are mobile apps and technology, I started to learn programming 2 year ago, I decided to improve my skills in Swift almost 1 year ago, currenly work in <a href="https://rudo.es/">@rudoapps</a></p>
+<p>Hi, I´m 20 years old, my passions are mobile apps and technology, I started learning programming 2 years ago. I decided to improve my skills in Swift almost 1 year ago, I´m currently working at <a href="https://rudo.es/">@rudoapps</a>.</p>
 
-<p>Little bit more about me:</p>
+<p>A little bit more about my self:</p>
 
-- 👨‍🏫 I'm personal teacher in my free time
-- 🌱 I’m currently learning SwiftUI and clean arquitecture and improve my English
-- ⚽️ I'm sport lover
+- 👨‍🏫 I'm a personal teacher in my free time
+- 🌱 ´m currently learning SwiftUI and clean architecture and I want to improve my English.
+- ⚽️ I'm a sports lover
 
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/danibelmonte?label=Follow&style=social">
+<a href="https://github.com/DaniBelmonte"><img alt="GitHub followers" src="https://img.shields.io/github/followers/danibelmonte?label=Follow&style=social"></a>
 
 <h2>Skills:</h2>
 
