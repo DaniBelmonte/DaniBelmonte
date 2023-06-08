@@ -28,13 +28,9 @@
 <a href="https://www.linkedin.com/in/daniel-belmonte-valero"><img alt="Mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-<h2>🏆 GitHub Profile Languages and Trophies:</h2>
+<h2>🏆 GitHub Profile Languages:</h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danibelmonte&show_icons=true&locale=en&layout=compact" alt="danibelmonte"></p>
-
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danibelmonte&theme=onedark" alt="danibelmonte" /></a></p>
-
-
 
 
 <!---
