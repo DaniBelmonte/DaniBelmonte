@@ -1,6 +1,6 @@
 <h1> Hi, I´m Daniel Belmonte Valero <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h1>
 <h2>About Me:</h2>
-<p>Hi, I´m 21 years old, my passions are mobile apps and technology, I started learning programming 2 years ago. I decided to improve my skills in Swift almost 1 year ago, I´m currently working at <a href="https://rudo.es/">@rudoapps</a>.</p>
+<p>Hi, I´m 21 years old, my passions are mobile apps and technology, I started learning programming 3 years ago. I decided to improve my skills in Swift almost 2 year ago, I´m currently working at <a href="https://rudo.es/">@rudoapps</a>.</p>
 
 <p>A little bit more about my self:</p>
 
