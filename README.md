@@ -6,10 +6,9 @@
 
 - 🔭 I’m currently working on **Swift and SwiftUI**
 - 👨‍🏫 I'm a personal teacher in my free time
-- 🌱 I'm currently learning SwiftUI and clean architecture.
+- 🌱 I'm currently learning SwiftUI animations.
 - 📓 I'm improving my English skills
 - ⚽️ I'm a sports lover
-- 📚 I'm currently reading **The Obstacle Is the Way**.
 - 👨‍💻 All of my projects are available at [https://github.com/DaniBelmonte](https://github.com/DaniBelmonte)
 
 <p><a href="https://github.com/DaniBelmonte"><img alt="GitHub followers" src="https://img.shields.io/github/followers/danibelmonte?label=Follow&style=social"></a></p>
