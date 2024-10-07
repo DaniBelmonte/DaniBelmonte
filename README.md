@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Swift and SwiftUI**
 - 👨‍🏫 I'm a personal teacher in my free time
-- 🌱 I'm currently learning SwiftUI animations.
+- 🌱 I'm currently learning SwiftUI and python(basic).
 - 📓 I'm improving my English skills
 - ⚽️ I'm a sports lover
 - 👨‍💻 All of my projects are available at [https://github.com/DaniBelmonte](https://github.com/DaniBelmonte)
