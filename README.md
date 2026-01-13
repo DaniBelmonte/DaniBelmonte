@@ -20,11 +20,6 @@
 <a href="https://www.linkedin.com/in/daniel-belmonte-valero"><img alt="Mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-<h2>🏆 GitHub Profile Languages:</h2>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danibelmonte&locale=en&layout=compact" alt="danibelmonte"></p>
-
-
 <!---
 DaniBelmonte/DaniBelmonte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
